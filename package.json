@@ -1,0 +1,10 @@
+{
+  "name": "monad-pipeline-mempool-streamer",
+  "version": "1.0.0",
+  "description": "Real-time streaming transaction mempool pipeline framework for Monad",
+  "main": "launchMempoolStream.js",
+  "dependencies": {
+    "ethers": "^6.13.0",
+    "dotenv": "^16.4.5"
+  }
+}
